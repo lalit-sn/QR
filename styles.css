@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    margin: 152px 560px 152px 560px;
+    background-color: hsl(212, 45%, 89%);
+}
+.box{
+  background-color: hsl(0, 0%, 100%); 
+  width: 320px;
+  height: 497px;
+  margin:0 auto 0 auto;
+  font: size 22px;
+  font-family: "Outfit", sans-serif;
+  border-radius: 25px;
+}
+.img{
+    margin-top: 16px;
+    width: 288px;
+    height: 288px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 22px;
+    margin: 16px;
+}
+p{
+    font-size: 15px;
+    margin: 0px 32px 48px 32px;
+}
+.credit:hover{
+    color: hsl(0, 0%, 100%);
+    
+}
+.credit{
+    text-decoration: none;
+}
